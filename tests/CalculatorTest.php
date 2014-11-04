@@ -1,7 +1,7 @@
 <?php
 use calc\calculator;
 
-class calculatortest extends \PHPUnit_Framework_TestCase
+class calculatorTest extends \PHPUnit_Framework_TestCase
 {
 	public function testCanBeAdded()
 	{
