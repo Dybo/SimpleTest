@@ -1,7 +1,7 @@
 <?php
-namespace Calculator\Helper;
+namespace calculator\helper;
 
-class Messenger
+class messenger
 {
 
 	private $_name;

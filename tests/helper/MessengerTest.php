@@ -1,12 +1,12 @@
 <?php
-use Calculator\Helper\Messenger;
+use calculator\helper\messenger;
 
-class MessengerTest extends \PHPUnit_Framework_TestCase
+class messengerTest extends \PHPUnit_Framework_TestCase
 {
 
 	public function testCanBeHelloed()
 	{
-		$m = new Messenger("Dylan");
+		$m = new messenger("Dylan");
 
 		$expected = "Hello Dylan";
 
@@ -15,7 +15,7 @@ class MessengerTest extends \PHPUnit_Framework_TestCase
 
 	public function testCanBeGmed()
 	{
-		$m = new Messenger("Dylan");
+		$m = new messenger("Dylan");
 
 		$expected = "Goodmorning Dylan";
 

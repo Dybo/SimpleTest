@@ -1,6 +1,6 @@
-<?php namespace Calculator;
+<?php namespace calculator;
 
-class Calculator
+class calculator
 {
 
 	private $_x;

@@ -4,8 +4,8 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Calculator\\": "src",
-			"Tests\\": "tests"
+			"calculator\\": "src",
+			"tests\\": "tests"
 		}
 	}
 }
