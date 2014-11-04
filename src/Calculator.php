@@ -1,4 +1,4 @@
-<?php namespace calculator;
+<?php namespace calc;
 
 class calculator
 {

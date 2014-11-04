@@ -1,5 +1,5 @@
 <?php
-use calculator\helper\messenger;
+use calc\helper\messenger;
 
 class messengerTest extends \PHPUnit_Framework_TestCase
 {

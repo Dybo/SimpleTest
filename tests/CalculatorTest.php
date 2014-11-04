@@ -1,5 +1,5 @@
 <?php
-use calculator\calculator;
+use calc\calculator;
 
 class calculatorTest extends \PHPUnit_Framework_TestCase
 {

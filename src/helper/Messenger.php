@@ -1,5 +1,5 @@
 <?php
-namespace calculator\helper;
+namespace calc\helper;
 
 class messenger
 {
