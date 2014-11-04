@@ -1,7 +1,7 @@
 <?php
 use calc\helper\messenger;
 
-class messengerTest extends \PHPUnit_Framework_TestCase
+class messengertest extends \PHPUnit_Framework_TestCase
 {
 
 	public function testCanBeHelloed()
