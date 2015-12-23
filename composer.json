@@ -4,8 +4,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"calc\\": "src",
-			"tests\\": "tests"
+			"Dybo\\Xml\\": "src/Xml"
 		}
 	}
 }
